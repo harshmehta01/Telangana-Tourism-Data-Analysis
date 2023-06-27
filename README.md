@@ -22,7 +22,7 @@ Imagine yourself as Peter Pandey and perform the following task:
 •	You can use additional data based on your own research to support your recommendations
 
 ## Credits
-The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. [Refer This](https://data.telangana.gov.in/).
+The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. [Refer This](https://data.telangana.gov.in/)
 
 ## Data Model
 ![Data Model](https://github.com/harshmehta01/Telangana-Tourism-Data-Analysis/assets/97782632/9edd0ad7-2605-4399-be20-3dc5274a5f34)
