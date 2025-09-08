@@ -25,17 +25,17 @@ Imagine yourself as Peter Pandey and perform the following task:
 The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. [Refer This](https://data.telangana.gov.in/)
 
 ## Data Model
-![Data Model](https://github.com/harshmehta01/Telangana-Tourism-Data-Analysis/assets/97782632/9edd0ad7-2605-4399-be20-3dc5274a5f34)
+![Data Model](Images/DataModel.png)
 
 ## Dashboard
 ### Tourism Insights
-![Tourism Insights](https://github.com/harshmehta01/Telangana-Tourism-Data-Analysis/assets/97782632/b6ff2ab0-eb77-43e6-a469-39b1cb69cc0c)
+![Tourism Insights](Images/TourismInsights.png)
 
 ### Comparing Indicators
-![Comparing Indicators](https://github.com/harshmehta01/Telangana-Tourism-Data-Analysis/assets/97782632/6ddb7497-83f5-4c14-8be5-b9929630ede7)
+![Comparing Indicators](Images/ComparingIndicators.png)
 
 ### Examining Hyderabad
-![Examining Hyderabad](https://github.com/harshmehta01/Telangana-Tourism-Data-Analysis/assets/97782632/3cc580d9-1c11-42bf-84e5-0d8aba4f07b7)
+![Examining Hyderabad](Images/ExaminingHyderabad.png)
 
 ## Some Important insights from the dashboard:
 •	Hyderabad attracts the highest number of visitors, followed by Rajanna Sircilla and Warangal Urban, showcasing the diverse tourism potential of these destinations.
